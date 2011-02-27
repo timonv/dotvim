@@ -7,3 +7,6 @@ source ~/.vim/plugins.vim
 if filereadable(expand("~/.vim_local"))
   source ~/.vim_local
 endif
+
+colorscheme zenburn
+colors zenburn

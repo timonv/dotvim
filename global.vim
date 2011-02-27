@@ -24,6 +24,7 @@ set list
 
 set t_Co=256
 colorscheme zenburn
+colors zenburn
 set background=dark
 
 " highlight spell errors
